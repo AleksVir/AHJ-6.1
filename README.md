@@ -2,4 +2,4 @@
 
 https://aleksvir.github.io/AHJ-6.1/
 
-[![Build status](https://ci.appveyor.com/api/projects/status/v9vxfb1lk7wc5sky/branch/main?svg=true)](https://ci.appveyor.com/project/AleksVir/AHJ-6.1/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/u6dhk1by3cby4ff3/branch/main?svg=true)](https://ci.appveyor.com/project/AleksVir/ahj-6-1/branch/main)
